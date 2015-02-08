@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "0.0.0",
+  "description": "a node test app to rule them all :MEAN STACK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"express" : "latest",
+  	"morgan"  : "latest",
+  	"bcrypt-nodejs" : "latest",
+  	"body-parser" : "latest",
+  	"mongoose" : "latest",
+  	"passport" : "latest"
+  	},
+  "author": "Slimane AGOURAM",
+  "license": "BSD-2-Clause"
+}
